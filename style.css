@@ -15,7 +15,7 @@ body {
 
 /* HEADER */
 header {
-    background:color(srgb red green blue);
+    background:color #5e6a86;
     color: white;
     text-align: center;
     padding: 30px 10px;
