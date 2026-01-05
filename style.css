@@ -8,14 +8,14 @@
 
 /* BODY */
 body {
-    background-image: url(https://www.dreamstime.com/kks-letter-initial-logo-design-vector-illustration-image236631262)
+    background: color #23ab26;;
     
     line-height: 1.6;
 }
 
 /* HEADER */
 header {
-    background-image: #1e293b;
+    background-color: #1e293b;
     color: white;
     text-align: center;
     padding: 30px 10px;
